@@ -20,7 +20,9 @@
       "prefix": "app",
       "styles": [
         "assets/preloader.css",
-        "assets/vendors/by_bower/bootstrap/dist/css/bootstrap.min.css"
+        "assets/vendors/by_bower/bootstrap/dist/css/bootstrap.min.css",
+
+        "assets/modules/core/common/core.cleanui.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
