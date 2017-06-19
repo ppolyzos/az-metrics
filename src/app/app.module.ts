@@ -4,11 +4,19 @@ import { Router, NavigationStart, NavigationEnd, RouterModule } from '@angular/r
 import { NgbModule } from '@ng-bootstrap/ng-bootstrap';
 
 import { AppComponent } from './app.component';
+import { TopBarComponent } from './components/top-bar/top-bar.component';
+import { FooterComponent } from './components/footer/footer.component';
+import { MenuLeftComponent } from './components/menu-left/menu-left.component';
+import { MenuRightComponent } from './components/menu-right/menu-right.component';
 import { routing } from './app.routing';
 
 @NgModule({
   declarations: [
-    AppComponent
+    AppComponent,
+    TopBarComponent,
+    FooterComponent,
+    MenuLeftComponent,
+    MenuRightComponent
   ],
   imports: [
     BrowserModule,

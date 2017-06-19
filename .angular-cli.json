@@ -22,7 +22,12 @@
         "assets/preloader.css",
         "assets/vendors/by_bower/bootstrap/dist/css/bootstrap.min.css",
 
-        "assets/modules/core/common/core.cleanui.css"
+        "assets/modules/core/common/core.cleanui.css",
+
+        "assets/modules/menu-left/common/menu-left.cleanui.css",
+        "assets/modules/menu-right/common/menu-right.cleanui.css",
+        "assets/modules/top-bar/common/top-bar.cleanui.css",
+        "assets/modules/footer/common/footer.cleanui.css"
       ],
       "scripts": [],
       "environmentSource": "environments/environment.ts",
