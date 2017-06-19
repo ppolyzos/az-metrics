@@ -1,0 +1,23 @@
+{
+  "name": "az-metrics",
+  "description": "Monitor Azure resources",
+  "main": "",
+  "authors": [
+    "ppolyzos <ppolyzos@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "azure"
+  ],
+  "homepage": "https://github.com/ppolyzos/az-metrics",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+  }
+}
